@@ -1,2 +1,2 @@
-This is a simple sign up and log in system made with python
-I'm just a beginner in this journey so I hope i  can make it more far
+Everything uploaded here will be my Python projects
+i am beginning this journey and I hope I can make far
