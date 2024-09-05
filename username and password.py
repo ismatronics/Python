@@ -1,12 +1,12 @@
 # username and password authentication
 # code 100% written by me
 # My social media:
-# x.com/ismafreelance
-# github.com/ismafreelance
-# instagram.com/ismafreelance
-# youtube.com/@ismafreelance
+# x.com/ismatronics
+# github.com/ismatronics
+# instagram.com/ismatronics
+# youtube.com/@ismatronics
 
-print("Code written by ismafreelance")
+print("Code written by ismatronics")
 print("")
 
 #define username
